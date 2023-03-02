@@ -1,2 +1,0 @@
-# studentx.world
-React js
